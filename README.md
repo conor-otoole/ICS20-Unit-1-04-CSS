@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/conor-otoole/ICS20-Unit-1-04-CSS)](https://repl.it/github/cconor-otoole/ICS20-Unit-1-04-CSS)
 
-This site can be found at: [https://ics20-unit-1-04-css.conor-otoole.repl.co/)
+[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions/)
